@@ -1,0 +1,9 @@
+{
+    "model": "tunedModels/weathersummarytestcases-joa2is2jw55q",
+    "temperature": 1,
+    "top_p": 0.95,
+    "top_k": 64,
+    "max_output_tokens": 8192,
+    "prompt": "input: {\n  \"Day 1\": {\n    \"Rainfall\": \"10 mm\",\n    \"Wind Speed\": \"15 km/h\",\n    \"Temperature\": \"25°C\",\n    \"Humidity\": \"80%\",\n    \"Relative Humidity Max\": \"90%\",\n    \"Relative Humidity Min\": \"70%\"\n  },\n  \"Day 2\": {\n    \"Rainfall\": \"5 mm\",\n    \"Wind Speed\": \"10 km/h\",\n    \"Temperature\": \"28°C\",\n    \"Humidity\": \"75%\",\n    \"Relative Humidity Max\": \"85%\",\n    \"Relative Humidity Min\": \"65%\"\n  },\n  \"Day 3\": {\n    \"Rainfall\": \"0 mm\",\n    \"Wind Speed\": \"8 km/h\",\n    \"Temperature\": \"30°C\",\n    \"Humidity\": \"70%\",\n    \"Relative Humidity Max\": \"80%\",\n    \"Relative Humidity Min\": \"60%\"\n  },\n  \"Day 4\": {\n    \"Rainfall\": \"20 mm\",\n    \"Wind Speed\": \"20 km/h\",\n    \"Temperature\": \"22°C\",\n    \"Humidity\": \"85%\",\n    \"Relative Humidity Max\": \"95%\",\n    \"Relative Humidity Min\": \"75%\"\n  },\n  \"Day 5\": {\n    \"Rainfall\": \"15 mm\",\n    \"Wind Speed\": \"12 km/h\",\n    \"Temperature\": \"24°C\",\n    \"Humidity\": \"78%\",\n    \"Relative Humidity Max\": \"88%\",\n    \"Relative Humidity Min\": \"68%\"\n  }\n}\n\nAnalyze the provided weather data for five consecutive days, including daily values for rainfall, wind speed, temperature, humidity, and maximum and minimum relative humidity. Generate a summarized weather report in a single paragraph, highlighting daily variations and comparing the values to identify trends or significant changes. Present the summary in a forecasted perspective, describing how the weather evolved over the five-day period."
+  }
+  

@@ -1,0 +1,212 @@
+[
+    {
+        "Location": "Vellayani",
+        "Rainfall": "29 mm",
+        "Max Temp": "32.3°C",
+        "Min Temp": "22.6°C",
+        "Morning Humidity": "94%",
+        "Afternoon Humidity": "78%",
+        "Wind Speed": "Negligible",
+        "Advisory": "For Vellayani, moderate rainfall occurred during the week of 16th to 22nd November, with a significant downpour on 20th November. Expect calm conditions with no significant wind. The high morning humidity suggests the need for proper crop management, and moderate rain might reduce irrigation needs."
+    },
+    {
+        "Location": "PalayamKottai",
+        "Rainfall": "70.4 mm",
+        "Max Temp": "28.2°C",
+        "Min Temp": "24°C",
+        "Morning Humidity": "87%",
+        "Afternoon Humidity": "77%",
+        "Wind Speed": "Light",
+        "Advisory": "For PalayamKottai, moderate rainfall occurred from 17th to 21st November. The highest rainfall on 21st November, combined with mild winds, suggests that irrigation might not be necessary for most crops. Morning humidity levels indicate the need for moisture retention strategies in soil."
+    },
+    {
+        "Location": "Changanassery",
+        "Rainfall": "40 mm",
+        "Max Temp": "33.1°C",
+        "Min Temp": "24.8°C",
+        "Morning Humidity": "92%",
+        "Afternoon Humidity": "72%",
+        "Wind Speed": "15 km/h",
+        "Advisory": "For Changanassery, expect a hot week with some rainfall. With moderate rain, plants may benefit from reduced irrigation needs. The wind speed suggests possible drying effects, so maintaining soil moisture levels is crucial."
+    },
+    {
+        "Location": "Kochi",
+        "Rainfall": "5.5 mm",
+        "Max Temp": "30.7°C",
+        "Min Temp": "26.3°C",
+        "Morning Humidity": "88%",
+        "Afternoon Humidity": "65%",
+        "Wind Speed": "10 km/h",
+        "Advisory": "For Kochi, the rainfall is minimal, so irrigation is recommended for most crops. The warm temperatures and moderate wind speeds mean you should ensure proper watering and shade for sensitive crops during the afternoon."
+    },
+    {
+        "Location": "Trivandrum",
+        "Rainfall": "22 mm",
+        "Max Temp": "32.0°C",
+        "Min Temp": "25.5°C",
+        "Morning Humidity": "85%",
+        "Afternoon Humidity": "72%",
+        "Wind Speed": "Moderate",
+        "Advisory": "For Trivandrum, light rainfall suggests that most crops will benefit from reduced irrigation. The moderate wind speeds may cause some drying of soil, so consider covering plants in exposed areas to prevent moisture loss."
+    },
+    {
+        "Location": "Alappuzha",
+        "Rainfall": "50 mm",
+        "Max Temp": "29.8°C",
+        "Min Temp": "23.9°C",
+        "Morning Humidity": "91%",
+        "Afternoon Humidity": "74%",
+        "Wind Speed": "Light",
+        "Advisory": "For Alappuzha, expect moderate rainfall. The high morning humidity indicates favorable conditions for crop growth, but afternoon dryness means that light irrigation will be beneficial."
+    },
+    {
+        "Location": "Kollam",
+        "Rainfall": "15 mm",
+        "Max Temp": "31.2°C",
+        "Min Temp": "24.4°C",
+        "Morning Humidity": "85%",
+        "Afternoon Humidity": "70%",
+        "Wind Speed": "12 km/h",
+        "Advisory": "For Kollam, light rainfall combined with warm temperatures means moderate irrigation is needed. Afternoon dryness suggests that crops may require additional watering."
+    },
+    {
+        "Location": "Kottayam",
+        "Rainfall": "35 mm",
+        "Max Temp": "31.5°C",
+        "Min Temp": "23.0°C",
+        "Morning Humidity": "90%",
+        "Afternoon Humidity": "80%",
+        "Wind Speed": "5 km/h",
+        "Advisory": "For Kottayam, moderate rainfall during the week indicates a reduction in irrigation needs. The morning humidity suggests favorable conditions for most crops, though the calm wind speeds may require attention to humidity buildup around plants."
+    },
+    {
+        "Location": "Nedumangad",
+        "Rainfall": "20 mm",
+        "Max Temp": "30.0°C",
+        "Min Temp": "22.5°C",
+        "Morning Humidity": "80%",
+        "Afternoon Humidity": "70%",
+        "Wind Speed": "Light",
+        "Advisory": "For Nedumangad, light rainfall suggests low irrigation requirements. The mild temperatures and humidity levels indicate suitable conditions for crop growth, but keep an eye on afternoon dryness."
+    },
+    {
+        "Location": "Thiruvalla",
+        "Rainfall": "10 mm",
+        "Max Temp": "32.4°C",
+        "Min Temp": "24.1°C",
+        "Morning Humidity": "84%",
+        "Afternoon Humidity": "75%",
+        "Wind Speed": "10 km/h",
+        "Advisory": "For Thiruvalla, minimal rainfall suggests irrigation is required for crops. Afternoon humidity levels indicate possible moisture stress, so it's recommended to water crops in the late afternoon."
+    },
+    {
+        "Location": "Mavelikkara",
+        "Rainfall": "18 mm",
+        "Max Temp": "31.5°C",
+        "Min Temp": "23.8°C",
+        "Morning Humidity": "87%",
+        "Afternoon Humidity": "78%",
+        "Wind Speed": "12 km/h",
+        "Advisory": "For Mavelikkara, light rainfall indicates some relief for crops, but moderate irrigation is still necessary. The wind speed suggests a drying effect, so consider adding mulch to retain moisture."
+    },
+    {
+        "Location": "Punalur",
+        "Rainfall": "80 mm",
+        "Max Temp": "29.5°C",
+        "Min Temp": "22.0°C",
+        "Morning Humidity": "91%",
+        "Afternoon Humidity": "75%",
+        "Wind Speed": "Light",
+        "Advisory": "For Punalur, heavy rainfall over the week suggests that irrigation needs may be reduced. The consistent humidity suggests suitable growth conditions, but ensure drainage in the fields to prevent waterlogging."
+    },
+    {
+        "Location": "Cherthala",
+        "Rainfall": "45 mm",
+        "Max Temp": "32.1°C",
+        "Min Temp": "25.2°C",
+        "Morning Humidity": "85%",
+        "Afternoon Humidity": "77%",
+        "Wind Speed": "10 km/h",
+        "Advisory": "For Cherthala, moderate rainfall throughout the week suggests reduced irrigation requirements. Afternoon winds will help in drying excess moisture, so ensure proper ventilation for crops."
+    },
+    {
+        "Location": "Idukki",
+        "Rainfall": "100 mm",
+        "Max Temp": "27.5°C",
+        "Min Temp": "21.8°C",
+        "Morning Humidity": "93%",
+        "Afternoon Humidity": "80%",
+        "Wind Speed": "Moderate",
+        "Advisory": "For Idukki, expect significant rainfall this week, leading to reduced irrigation needs. High morning humidity suggests optimal conditions for crops, but the wind speeds indicate potential drying of soil."
+    },
+    {
+        "Location": "Nelliyampathy",
+        "Rainfall": "30 mm",
+        "Max Temp": "31.0°C",
+        "Min Temp": "23.0°C",
+        "Morning Humidity": "90%",
+        "Afternoon Humidity": "70%",
+        "Wind Speed": "Light",
+        "Advisory": "For Nelliyampathy, moderate rainfall suggests reduced irrigation needs. The mild afternoon temperatures and light wind speeds indicate favorable conditions for crop growth, but maintain vigilance for afternoon dryness."
+    },
+    {
+        "Location": "Munnar",
+        "Rainfall": "60 mm",
+        "Max Temp": "26.5°C",
+        "Min Temp": "19.5°C",
+        "Morning Humidity": "95%",
+        "Afternoon Humidity": "70%",
+        "Wind Speed": "High",
+        "Advisory": "For Munnar, heavy rainfall suggests no need for irrigation. The high morning humidity provides a good environment for crops, while the strong winds may cause some damage, so consider providing support to sensitive plants."
+    },
+    {
+        "Location": "Wayanad",
+        "Rainfall": "90 mm",
+        "Max Temp": "28.0°C",
+        "Min Temp": "21.0°C",
+        "Morning Humidity": "92%",
+        "Afternoon Humidity": "75%",
+        "Wind Speed": "Light",
+        "Advisory": "For Wayanad, heavy rainfall throughout the week reduces irrigation needs. Morning humidity levels suggest good growth conditions for crops, but afternoon dryness could lead to soil moisture loss."
+    },
+    {
+        "Location": "Kumarakom",
+        "Rainfall": "40 mm",
+        "Max Temp": "31.3°C",
+        "Min Temp": "23.5°C",
+        "Morning Humidity": "89%",
+        "Afternoon Humidity": "78%",
+        "Wind Speed": "10 km/h",
+        "Advisory": "For Kumarakom, moderate rainfall and warm temperatures suggest a balance between irrigation and natural moisture. Consider using mulch to conserve moisture in the soil."
+    },
+    {
+        "Location": "Ottappalam",
+        "Rainfall": "25 mm",
+        "Max Temp": "32.8°C",
+        "Min Temp": "24.7°C",
+        "Morning Humidity": "88%",
+        "Afternoon Humidity": "70%",
+        "Wind Speed": "Light",
+        "Advisory": "For Ottappalam, light rainfall indicates minimal irrigation needs. The warm temperatures suggest that sensitive crops might need protection from direct sunlight."
+    },
+    {
+        "Location": "Adoor",
+        "Rainfall": "55 mm",
+        "Max Temp": "30.5°C",
+        "Min Temp": "23.1°C",
+        "Morning Humidity": "85%",
+        "Afternoon Humidity": "78%",
+        "Wind Speed": "10 km/h",
+        "Advisory": "For Adoor, moderate rainfall is expected, reducing irrigation requirements. The mild afternoon dryness means additional watering might be necessary for crops that are sensitive to moisture stress."
+    },
+    {
+        "Location": "Karunagappally",
+        "Rainfall": "15 mm",
+        "Max Temp": "33.0°C",
+        "Min Temp": "25.5°C",
+        "Morning Humidity": "84%",
+        "Afternoon Humidity": "65%",
+        "Wind Speed": "12 km/h",
+        "Advisory": "For Karunagappally, minimal rainfall suggests that irrigation will be necessary, especially in the afternoon when the humidity is lower."
+    }
+]

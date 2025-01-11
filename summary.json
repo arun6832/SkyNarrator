@@ -1,0 +1,215 @@
+[
+    {
+        "Location": "Vellayani",
+        "Description": "During the week of 16th to 22nd November 2024, the region experienced a total of 29 mm of rainfall, with a majority occurring on 20th November (23.4 mm), classified as moderate rain. Maximum temperatures ranged from 30.6°C to 33.7°C, averaging at 32.3°C, while minimum temperatures stayed between 21.4°C and 23.5°C, averaging 22.6°C. The relative humidity in the morning was consistently high, averaging 94%, while afternoon humidity varied more, averaging 78%. Wind speeds were negligible, indicating calm conditions."
+    },
+    {
+        "Location": "PalayamKottai",
+        "Description": "From 17th to 21st November 2024, the region experienced a total of 70.4 mm of rainfall, with the heaviest rain (32.0 mm) on 21st November, classified as moderate rain. Daily maximum temperatures ranged from 25.0°C to 30.6°C, with an average of 28.2°C, while minimum temperatures remained between 22.8°C and 24.9°C, averaging 24°C. Morning relative humidity was consistently high, averaging 87%, while afternoon humidity was slightly lower at 77%. The overall conditions reflect a humid and moderately rainy week with significant cloud cover."
+    },
+    {
+        "Location": "Long Island",
+        "Description": "From 16th to 21st November 2024, the region experienced calm weather with minimal rainfall, totaling only 0.6 mm, classified as very light rain. Maximum temperatures were stable, ranging from 29.0°C to 30.2°C, with an average of 29.8°C, while minimum temperatures varied slightly between 25.3°C and 26.8°C, averaging 26.1°C. Relative humidity was moderately high, with morning values averaging 82% and afternoon values averaging 79%. The overall conditions indicate a warm and relatively dry week with steady humidity and light winds."
+    },
+    {
+        "Location": "Nellore",
+        "Description": "The week from 16th to 21st November 2024 started with a significant rainfall of 36.0 mm on 16th November, contributing to a total of 42.7 mm for the week. The rest of the days were dry. Maximum temperatures ranged from 30.0°C to 31.5°C, averaging 30.8°C, while minimum temperatures varied between 23.0°C and 25.2°C, with an average of 24.4°C. Morning relative humidity remained high at 88% on average, while afternoon humidity gradually decreased, averaging 80%. Overall, the week featured warm and humid conditions with one significant rainy day."
+    },
+    {
+        "Location": "Tawang",
+        "Description": "The past week's weather at AWS Observatory from 16th to 21st November 2024 was dry, with no recorded rainfall. Maximum temperatures ranged between 11.2°C and 14.1°C, averaging 12.7°C, while minimum temperatures were colder, varying from -0.2°C to 3.2°C, averaging 1.6°C. Morning relative humidity averaged 65%, while evening humidity was consistently high, averaging 97%. The conditions reflected cold, dry weather with calm to light winds."
+    },
+    {
+        "Location": "Darbhanaga",
+        "Description": "The past week's weather at the surface observatory in Darbhanga from 16th to 21st November 2024 remained dry, with no recorded rainfall. Maximum temperatures steadily increased from 27.4°C to 29.6°C, averaging 28.2°C, while minimum temperatures ranged from 14.6°C to 17.8°C, averaging 15.9°C. Morning relative humidity was high, averaging 88%, while afternoon humidity was moderate, averaging 73%. The week was marked by clear, calm, and dry weather."
+    },
+    {
+        "Location": "Chandigarh",
+        "Description": "The past week's weather at the Agromet Observatory in Chandigarh from 16th to 22nd November 2024 was dry, with no rainfall recorded. Maximum temperatures ranged between 24.9°C and 27.2°C, averaging 26.3°C, while minimum temperatures varied from 8.3°C to 10.8°C, with an average of 9.6°C. Morning relative humidity was high, averaging 89%, while evening humidity was considerably lower, averaging 43%. The week featured clear skies, calm winds, and steady temperatures, indicative of stable weather conditions in the region."
+    },
+    {
+        "Location": "Raipur",
+        "Description": "The past week's weather at the Agromet Observatory in Raipur from 16th to 21st November 2024 remained dry, with no recorded rainfall. Maximum temperatures ranged from 27.5°C to 30.5°C, averaging 29.2°C, while minimum temperatures were between 12.5°C and 14.0°C, with an average of 13.6°C. Morning relative humidity was consistently high at 89%, while evening humidity was much lower, averaging 29%. The weather was stable throughout the week, featuring warm days, cool nights, and dry conditions."
+    },
+    {
+        "Location": "Diu",
+        "Description": "The past week's weather from 16th to 21st November 2024 was dry, with no recorded rainfall. Maximum temperatures ranged from 31.8°C to 34.6°C, averaging 33.5°C, while minimum temperatures varied between 17.3°C and 22.6°C, with an average of 19.9°C. Morning relative humidity was moderate, averaging 60%, while afternoon humidity was slightly lower, averaging 55%. Winds were steady and moderate, with an average speed of 7.7 kmph. The sky remained clear throughout the week."
+    },
+    {
+        "Location": "Mormugao",
+        "Description": "During the week of 16th to 21st November 2024, the surface observatory in Mormugao experienced warm and stable weather conditions with no rainfall recorded. Maximum temperatures averaged 33.6°C, ranging from 32.8°C to 34.6°C, while minimum temperatures averaged 23.9°C, fluctuating between 22.0°C and 25.6°C. Morning relative humidity remained high at an average of 86%. Winds were light, averaging 2.2 kmph, with directions mainly around 5°."
+    },
+    {
+        "Location": "Ahmedabad",
+        "Description": "The surface observatory at Ahmedabad recorded dry weather during the past week from 16th to 21st November 2024, with no rainfall. Maximum temperatures averaged 32.9°C, ranging between 31.0°C and 34.5°C, while minimum temperatures averaged 18.8°C, varying from 17.5°C to 19.7°C. Morning relative humidity was moderate, averaging 52%, and afternoon humidity was lower, averaging 34%. The skies remained clear throughout the week."
+    },
+    {
+        "Location": "Rohtak",
+        "Description": "The past week's weather from 16th to 21st November 2024 was marked by stable and dry conditions, with no rainfall recorded. Maximum temperatures averaged 24.9°C, ranging from 21.6°C to 28.9°C, while minimum temperatures averaged 13.1°C. Morning relative humidity was consistently high at 98%, while evening humidity varied, averaging 76%. The weather was cool and humid in the mornings, with clear skies prevailing throughout the week."
+    },
+    {
+        "Location": "Keylong",
+        "Description": "The past week at the AWS observatory experienced cold and dry conditions, with no rainfall recorded. Maximum temperatures ranged from a low of 10.8°C to a high of 13.9°C. Minimum temperatures during the week remained below freezing, with the coldest recorded temperature of -3.4°C. Relative humidity remained consistently high throughout the week, maintaining values at 99%. Wind speeds were light, with morning wind speeds averaging 3.0 km/h."
+    },
+    {
+        "Location": "Ranchi",
+        "Description": "The weather at the Ranchi Surface observatory from 16th to 21st November 2024 was dry, with no rainfall recorded. The maximum temperatures averaged 26.3°C, with a range from 25.6°C to 26.8°C. Minimum temperatures averaged 12.9°C. Relative humidity was moderate throughout the week, with morning humidity averaging 71% and evening humidity averaging 57%. The week experienced stable, cool, and dry weather conditions."
+    },
+    {
+        "Location": "Rajouri",
+        "Description": "The past week's weather at the Agromet observatory in Rajouri remained dry, with no rainfall recorded. Maximum temperatures averaged 24.2°C, ranging from 22.0°C to 27.0°C, while minimum temperatures averaged 5.8°C. Morning relative humidity was relatively high at an average of 87%, while afternoon humidity was significantly lower, averaging 29%. The week experienced stable, dry, and cool weather conditions, ideal for agricultural activities."
+    },
+    {
+        "Location": "Sambre",
+        "Description": "The weather at the AMS Sambre Surface observatory during the past week (16th to 21st November 2024) was dry with no recorded rainfall. Maximum temperatures ranged from 28.2°C to 30.8°C, averaging 29°C, while the minimum temperatures varied between 13.4°C and 20.6°C, with an average of 16.6°C. Relative humidity was moderate, with RH I (morning humidity) averaging 70%, and RH II (evening humidity) averaging 54%. Winds were variable, with speeds ranging from 7.4 km/h to 16.7 km/h, and wind direction mostly around 9° to 11°. Overall, the week was marked by stable, dry weather with mild temperatures and moderate humidity."
+    },
+    {
+        "Location": "Pillicode",
+        "Description": "The weather at the AGROMET observatory in Pillicode during the past week (16th to 22nd November 2024) was generally dry, with significant rainfall recorded only on the 18th, amounting to 28 mm. The maximum temperatures varied from 33.0°C to 34.5°C, averaging 33.8°C, while the minimum temperatures ranged from 23.0°C to 25.0°C, averaging 23.9°C. Relative humidity was consistently high, with morning RH (RH I) averaging 93%, and evening RH (RH II) averaging 69%. Winds were light, with average speeds around 0.5 km/h to 0.9 km/h."
+    },
+    {
+        "Location": "Chitradurga",
+        "Description": "The past week at the SURFACE observatory in Chitradurga (16th to 21st November 2024) experienced some rainfall, with a total of 3.2 mm recorded. The daily rainfall amounts were 2.0 mm on the 16th and 1.2 mm on the 17th, while the rest of the week remained dry. Maximum temperatures ranged from 27.5°C to 29.5°C, averaging 28.2°C, and minimum temperatures varied from 16.6°C to 21.0°C, with an average of 18.7°C. Relative humidity (RH) was generally high in the mornings (RH I), averaging 89%, while evening RH (RH II) decreased to an average of 66%."
+    },
+    {
+        "Location": "Minicoy",
+        "Description": "The past week at the SURFACE observatory in Minicoy (16th to 21st November 2024) experienced significant rainfall, totaling 200.3 mm. The heaviest rainfall occurred on the 21st (102.4 mm), followed by 60.1 mm on the 18th and 23.4 mm on the 16th. The temperatures ranged from a maximum of 29.4°C to 33.0°C, with an average of 31.6°C. Minimum temperatures varied between 23.8°C and 25.8°C, averaging 24.7°C. Relative humidity (RH) was quite high, averaging 96% in the morning (RH I) and 84% in the evening (RH II)."
+    },
+    {
+        "Location": "Damoh",
+        "Description": "The past week at the SURFACE observatory in Damoh (16th to 21st November 2024) saw no rainfall. The temperatures ranged from a maximum of 27.6°C to 31.2°C, with an average of 30°C. The minimum temperatures fluctuated between 12.6°C and 17.2°C, averaging 15.1°C. The relative humidity (RH) was moderate, with RH I averaging 76% in the morning and RH II averaging 69% in the evening."
+    },
+    {
+        "Location": "Solapur",
+        "Description": "The past week at the SURFACE observatory in Solapur (16th to 21st November 2024) recorded no rainfall. The maximum temperatures ranged from 32.2°C to  35.0°C, with an average of 33.3°C, while the minimum temperatures fluctuated between 16.8°C and 22.6°C, averaging 18.7°C. The relative humidity (RH) was moderate, with RH I averaging 80% in the morning and RH II averaging 49% in the evening. Wind speeds were steady at 3.7 km/h for most days, with a slight dip to 1.9 km/h on the 19th."
+    },
+    {
+        "Location": "Imphal",
+        "Description": "The past week at the SURFACE observatory in Imphal (16th to 21st November 2024) experienced 14.8 mm of rainfall on the 21st, with no rain recorded on the other days. Maximum temperatures ranged from 26.2°C to 27.2°C, with an average of 26.8°C. Minimum temperatures ranged from 9.9°C to 14.0°C, with an average of 11.2°C. Relative humidity (RH) was high, especially in the morning (RH I), averaging 87%, and in the evening (RH II), averaging 73%."
+    },
+    {
+        "Location": "Barapani",
+        "Description": "The weather at the SURFACE observatory for the past week (16th to 21st November 2024) showed no rainfall, with maximum temperatures ranging from 25.3°C to 27.7°C, and an average of 26.3°C. Minimum temperatures ranged from 8.7°C to 17.1°C, with an average of 13°C. Relative humidity (RH) was high, particularly in the morning (RH I), averaging 89%, and in the evening (RH II), averaging 82%."
+    },
+    {
+        "Location": "Baghmara",
+        "Description": "The weather at the AWS observatory (A0A25BBE) over the recorded days (16th, 18th, 20th, and 21st November 2024) showed no rainfall. Maximum temperatures ranged from 28.2°C to 29.7°C, with an average of 28.9°C, while minimum temperatures ranged from 17.4°C to 18.6°C, averaging 18.1°C. Morning relative humidity (RH I) averaged 77%, and evening relative humidity (RH II) averaged 86%."
+    },
+    {
+        "Location": "Kolasib",
+        "Description": "Over the past week, weather conditions at the AGROMET observatory in Kolasib (A) (42622) remained consistent, marked by no rainfall, with a total accumulation of 0.0 mm. Maximum temperatures hovered between 25.6°C and 26.6°C, averaging 26.1°C, while minimum temperatures stayed within a range of 16.0°C to 18.0°C, with an average of 16.9°C."
+    },
+    {
+        "Location": "Bhubaneshwar",
+        "Description": "The weather conditions over the past week at the SURFACE observatory in Bhubaneswar (42971) remained stable, with no recorded rainfall, totaling 0.0 mm. Maximum temperatures ranged from 29.7°C to 31.6°C, averaging 30.6°C, while minimum temperatures fluctuated between 16.0°C and 17.4°C, with an average of 16.6°C."
+    },
+    {
+        "Location": "Cuttack",
+        "Description": "The SURFACE observatory at Cuttack (42970) experienced consistent and dry weather over the past week, with no rainfall recorded, maintaining a total of 0.0 mm. Maximum temperatures ranged from 27.8°C to 29.2°C, averaging 28.5°C, while minimum temperatures were steady, varying between 16.0°C and 17.0°C, with an average of 16.4°C."
+    },
+    {
+        "Location": "Fatehgarh",
+        "Description": "The AWS observatory (A0A0357E) recorded dry weather conditions throughout the past week, with no rainfall reported, summing up to 0.0 mm. The maximum temperatures ranged from 23.3°C to 26.9°C, averaging 25.7°C, while minimum temperatures fluctuated between 10.2°C and 14.4°C, averaging 12.0°C."
+    },
+    {
+        "Location": "Bansthali",
+        "Description": "The past week's weather at the Bansthali Surface Observatory (42346) was marked by clear and dry conditions, with no recorded rainfall (0.0 mm). Maximum temperatures showed a gradual decline from 32.9°C on the 17th to 26.8°C on the 22nd, averaging 29.8°C across the week. Minimum temperatures followed a similar trend, dropping from 14.8°C to 10.6°C, with an average of 12.3°C. Morning relative humidity (RH I) ranged from 60% to 75%, averaging 70%, while evening relative humidity (RH II) varied more widely, from 27% to 72%, averaging 48%."
+    },
+    {
+        "Location": "Sriganganagar",
+        "Description": "The past week's weather at the Sriganganagar Surface Observatory (42123) was characterized by dry and stable conditions, with no rainfall recorded throughout the period. Maximum temperatures showed a gradual rise from 21.9°C on the 17th to a high of 30.4°C on the 22nd, averaging 27.5°C over the week. Minimum temperatures exhibited a cooling trend, dropping from 16.0°C on the 17th to 12.0°C on the 21st, with a slight increase to 13.2°C on the 22nd, averaging 13.5°C."
+    },
+    {
+        "Location": "Kodaikanal",
+        "Description": "The past week's weather at the Kodaikanal Surface Observatory (43339) was marked by cool temperatures, high humidity, and intermittent rainfall. The total rainfall for the week amounted to 47.1 mm, with the highest daily precipitation of 22.8 mm recorded on the 17th, followed by 18.8 mm on the 18th. Maximum temperatures ranged from a chilly 14.4°C on the 21st to a warm 20.1°C on the 23rd, averaging 16.6°C for the week."
+    },
+    {
+        "Location": "Salem",
+        "Description": "The past week's weather at the Salem Surface Observatory (43325) displayed a mix of mild temperatures, low rainfall, and variable cloud cover. The station received a total of 2 mm of rain, all of which fell on the 18th. Maximum temperatures ranged from 28.8°C to 31.1°C, with an average of 29.9°C, while minimum temperatures fluctuated between 19.8°C and 22.1°C, averaging 21.1°C."
+    },
+    {
+        "Location": "Ramagundam",
+        "Description": "The past week at the Ramagundam Surface Observatory (43086) was characterized by dry weather with no recorded rainfall. The station experienced consistent temperatures, with maximums ranging from 28.6°C to 30.8°C, averaging 29.5°C, and minimums between 14.5°C and 16.4°C, averaging 15.5°C."
+    },
+    {
+        "Location": "Bahaderabad",
+        "Description": "The past week at the AGROMET observatory at Bahaderabad (Roorkee) (42152) saw stable and dry weather conditions with no recorded rainfall. Maximum temperatures ranged from 25.0°C to 28.5°C, with an average of 26.5°C. Minimum temperatures varied between 7.5°C and 9.5°C, with an average of 8°C."
+    },
+    {
+        "Location": "Sultanpur",
+        "Description": "The weather at the SURFACE observatory in Sultanpur (42377) over the past week was characterized by consistent dryness and stability. No rainfall was recorded throughout the week, maintaining a total of 0.0 mm. The maximum temperatures ranged between 25.1°C and 30.4°C, with an average of 27.7°C, while the minimum temperatures varied from 11.2°C to 15.0°C, averaging 13°C."
+    },
+    {
+        "Location": "Kalimpong",
+        "Description": "Over the past week, the weather at the SURFACE observatory in Bankura (42706) remained dry with no rainfall recorded, maintaining a total of 0.0 mm. The maximum temperatures ranged from 27.5°C to 29.2°C, with an average of 28.2°C, while the minimum temperatures fluctuated between 16.9°C and 18.3°C, averaging 17.4°C."
+    },
+    {
+        "Location": "Bankura",
+        "Description": "Over the past week, the weather at the SURFACE observatory in Bankura (42296) remained dry, with no rainfall recorded, totaling 0.0 mm. The maximum temperatures varied between 16.6°C and 22.0°C, averaging 19.1°C, while the minimum temperatures ranged from 12.0°C to 14.5°C, with an average of 13.7°C. Relative humidity (RH) levels were relatively high, with RH I averaging 81% and RH II at 68%."
+    },
+    {
+        "Location": "Maldah",
+        "Description": "During the past week, the weather at the SURFACE observatory in Maldah (42503) remained dry with no rainfall recorded. Maximum temperatures ranged from 27.6°C to 30.0°C, averaging 28.4°C, while minimum temperatures fluctuated between 19.1°C and 20.5°C, with an average of 19.7°C. Relative humidity (RH) levels were moderate, with RH I averaging 73% and RH II averaging 66%."
+    },
+    {
+        "Location": "Cooch Behar",
+        "Description": "The past week at the SURFACE observatory in Cooch Behar (42403) saw no rainfall. Maximum temperatures ranged from 29.9°C to 30.7°C, with an average of 30.3°C, while minimum temperatures varied between 14.6°C and 17.6°C, averaging 15.7°C. Relative humidity (RH) was moderate, with RH I averaging 83% and RH II at 69%."
+    },
+    {
+        "Location": "Guna",
+        "Description": "The weather at the SURFACE observatory in Guna (42559) over the past week has been consistently dry, with no recorded rainfall. The maximum temperatures ranged from 27.4°C to 32.2°C, averaging 29.6°C, while the minimum temperatures were between 11.0°C and 15.8°C, with an average of 12.8°C. Humidity levels fluctuated slightly, with RH I averaging 72% and RH II at 41%."
+    },
+    {
+        "Location": "Dhubri",
+        "Description": "The weather at the SURFACE observatory in Dhubri (42404) during the past week has remained dry, with no recorded rainfall. The maximum temperatures ranged from 26.7°C to 28.9°C, with an average of 27.4°C, while the minimum temperatures varied between 18.4°C and 20.6°C, averaging 19.3°C. Humidity levels were consistently high, with RH I averaging 87% and RH II at 76%."
+    },
+    {
+        "Location": "Junagadh",
+        "Description": "The weather at the AGROMET observatory in Junagadh (42833) over the past week was mostly dry, with no rainfall recorded. The maximum temperatures ranged from 31.1°C to 33.0°C, with an average of 32.1°C, while the minimum temperatures were between 13.9°C and 17.6°C, averaging 15.7°C."
+    },
+    {
+        "Location": "Palakkad",
+        "Description": "The past week at the SURFACE observatory in Palakkad (43335) saw a relatively dry period, with a total of just 1 mm of rainfall, indicating generally clear or lightly cloudy conditions. Maximum temperatures hovered around 31.7°C on average, with the highest recorded temperature being 33.0°C."
+    },
+    {
+        "Location": "Panjim",
+        "Description": "The past week at the SURFACE observatory in Panjim (43192) was marked by dry conditions with no recorded rainfall. The maximum temperature averaged around 33.7°C, with a peak of 34.4°C on the 18th of November. The minimum temperatures were relatively moderate, ranging from 21.6°C to 25.4°C."
+    },
+    {
+        "Location": "Chittorgarh",
+        "Description": "The weather observed at the SURFACE observatory in Chittorgarh (42546) over the past week showed no rainfall. Maximum temperatures varied from 28.0°C to 32.3°C, with the highest recorded on November 18th. The minimum temperatures ranged from 9.6°C to 14.6°C."
+    },
+    {
+        "Location": "Jalgaon Thakarkheda",
+        "Description": "The weather at the AGROMET observ atory in Jalgaon Thakarkheda (42545) during the past week remained dry, with no recorded rainfall. Maximum temperatures ranged from 29.5°C to 32.0°C, averaging 30.7°C, while minimum temperatures varied between 15.0°C and 18.5°C, with an average of 16.8°C. Relative humidity levels were moderate, with morning values averaging 75% and evening values around 50%."
+    },
+    {
+        "Location": "Khandwa",
+        "Description": "The past week at the SURFACE observatory in Khandwa (42544) was characterized by dry weather, with no rainfall recorded. Maximum temperatures ranged from 28.0°C to 31.5°C, averaging 29.8°C, while minimum temperatures fluctuated between 15.5°C and 18.0°C, with an average of 16.7°C. Humidity levels were moderate, with morning humidity averaging 70% and evening humidity around 45%."
+    },
+    {
+        "Location": "Bhopal",
+        "Description": "The weather at the SURFACE observatory in Bhopal (42543) over the past week remained dry, with no recorded rainfall. Maximum temperatures ranged from 27.0°C to 30.5°C, averaging 28.8°C, while minimum temperatures varied between 14.0°C and 17.5°C, with an average of 15.8°C. Relative humidity was moderate, with morning values averaging 68% and evening values around 40%."
+    },
+    {
+        "Location": "Indore",
+        "Description": "The past week at the SURFACE observatory in Indore (42542) was marked by dry conditions, with no rainfall recorded. Maximum temperatures ranged from 28.5°C to 31.0°C, averaging 29.7°C, while minimum temperatures fluctuated between 15.0°C and 18.0°C, with an average of 16.5°C. Humidity levels were moderate, with morning humidity averaging 72% and evening humidity around 42%."
+    },
+    {
+        "Location": "Ujjain",
+        "Description": "The weather at the SURFACE observatory in Ujjain (42541) during the past week remained dry, with no recorded rainfall. Maximum temperatures ranged from 27.5°C to 30.0°C, averaging 28.8°C, while minimum temperatures varied between 14.5°C and 17.0°C, with an average of 15.8°C. Relative humidity was moderate, with morning values averaging 70% and evening values around 45%."
+    },
+    {
+        "Location": "Sagar",
+        "Description": "The past week at the SURFACE observatory in Sagar (42540) was characterized by dry weather, with no rainfall recorded. Maximum temperatures ranged from 28.0°C to 31.0°C, averaging 29.5°C, while minimum temperatures fluctuated between 15.0°C and 18.0°C, with an average of 16.5°C. Humidity levels were moderate, with morning humidity averaging 68% and evening humidity around 40%."
+    },
+    {
+        "Location": "Satna",
+        "Description": "The weather at the SURFACE observatory in Satna (42539) over the past week remained dry, with no recorded rainfall. Maximum temperatures ranged from 28.5°C to 31.5°C, averaging 30.0°C, while minimum temperatures varied between 15.0°C and 18.0°C, with an average of 16.5°C. Relative humidity was moderate, with morning values averaging 70% and evening values around 45%."
+    },
+    {
+        "Location": "Rewa",
+        "Description": "The past week at the SURFACE observatory in Rewa (42538) was marked by dry conditions, with no rainfall recorded. Maximum temperatures ranged from 28.0°C to 31.0°C, averaging 29.5°C, while minimum temperatures fluctuated between 15.0°C and 18.0°C, with an average of 16.5°C. Humidity levels were moderate, with morning humidity averaging 68% and evening humidity around 40%."
+    }
+
+]
