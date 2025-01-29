@@ -1,0 +1,43 @@
+input_data = """
+{
+  "Day 1": {
+    "Rainfall": "10 mm",
+    "Wind Speed": "15 km/h",
+    "Temperature": "25°C",
+    "Humidity": "80%",
+    "Relative Humidity Max": "90%",
+    "Relative Humidity Min": "70%"
+  },
+  "Day 2": {
+    "Rainfall": "5 mm",
+    "Wind Speed": "10 km/h",
+    "Temperature": "28°C",
+    "Humidity": "75%",
+    "Relative Humidity Max": "85%",
+    "Relative Humidity Min": "65%"
+  },
+  "Day 3": {
+    "Rainfall": "0 mm",
+    "Wind Speed": "8 km/h",
+    "Temperature": "30°C",
+    "Humidity": "70%",
+    "Relative Humidity Max": "80%",
+    "Relative Humidity Min": "60%"
+  },
+  "Day 4": {
+    "Rainfall": "20 mm",
+    "Wind Speed": "20 km/h",
+    "Temperature": "22°C",
+    "Humidity": "85%",
+    "Relative Humidity Max": "95%",
+    "Relative Humidity Min": "75%"
+  },
+  "Day 5": {
+    "Rainfall": "15 mm",
+    "Wind Speed": "12 km/h",
+    "Temperature": "24°C",
+    "Humidity": "78%",
+    "Relative Humidity Max": "88%",
+    "Relative Humidity Min": "68%"
+  }
+}
